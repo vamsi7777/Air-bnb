@@ -1,8 +1,6 @@
 # Air-bnb
 
-
-
-![Air Bnb](https://images.app.goo.gl/zvv6CjN5omKq5Wqz8)
+![Air Bnb](https://github.com/[vamsi7777]/[Air-bnb]/blob/[main]/air.jpeg?raw=true)
 
 
 
