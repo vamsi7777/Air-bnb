@@ -1,6 +1,6 @@
 # Air-bnb
 
-![Air Bnb](https://github.com/[vamsi7777]/[Air-bnb]/blob/[main]/air.jpeg?raw=true)
+![Air Bnb](/home/vamsi/Desktop/air.jpeg)
 
 
 
