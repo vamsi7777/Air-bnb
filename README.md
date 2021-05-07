@@ -14,10 +14,19 @@
 #### What can we learn about different hosts and areas?
 #### Which hosts are the busiest and why?
     
+### Project Description
+#### In this project, I will perform a descriptive and exploratory analysis of the data, in order to understand how the phenomena of each variable behave individually and transversely, in addition to generate hypotheses useful for future decision-making. 
 
+### Methods
+#### To perform this, I will use statistical techniques very common in any type of analysis, simple or complex, such as classification of variables, frequency distribution tables, histograms, measures of central tendency and etc.
 
-
-
+### Outline
+#### 1. Libraries & Loading the data
+#### A. Libraries Used
+#### B. Loading the data
+#### C. Summary of data
+#### 2. Descriptive Analysis
+####  In general descriptive analyzes are the first manipulations performed in a quantitative study and their main objective is to summarize and explore the behavior of the data using statistical techniques.
 
 
 
