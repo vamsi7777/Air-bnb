@@ -10,6 +10,10 @@
 ### Acknowledgements:
 #### This public dataset is part of Airbnb, and the original source can be found on this [website](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data).
 
+### Inspiration:
+#### What can we learn about different hosts and areas?
+#### Which hosts are the busiest and why?
+    
 
 
 
