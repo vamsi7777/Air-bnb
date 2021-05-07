@@ -26,7 +26,9 @@
 #### B. Loading the data
 #### C. Summary of data
 #### 2. Descriptive Analysis
-####  In general descriptive analyzes are the first manipulations performed in a quantitative study and their main objective is to summarize and explore the behavior of the data using statistical techniques.
+####  In general, descriptive analyzes are the first manipulations performed in a quantitative study and their main objective is to summarize and explore the behavior of the data using statistical techniques.
+#### 3. Exploratory Analysis
+#### In statistics, exploratory data analysis is an approach to the analysis of data sets in order to summarize their main characteristics, often with visual methods.
 
 
 
